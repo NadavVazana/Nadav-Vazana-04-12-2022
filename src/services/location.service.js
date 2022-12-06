@@ -6,7 +6,7 @@ export const locationService = {
 }
 
 async function getLocation(cityName) {
-    return await axios.get(`https://dataservice.accuweather.com/locations/v1/cities/autocomplete?apikey=Em754KAbMWGXadsWl2QaZzXG9tfhYC9W&q=${cityName}&language=en-us`)
+    return await axios.get(`https://dataservice.accuweather.com/locations/v1/cities/autocomplete?apikey=6j0rgu0Ut0OcAkmUPbycskpcvAhMTJd9&q=${cityName}&language=en-us`)
         .then(res => res.data[0])
         .catch(error => console.error('Location not found'))}
 
