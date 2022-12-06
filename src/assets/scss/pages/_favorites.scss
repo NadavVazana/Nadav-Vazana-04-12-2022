@@ -1,0 +1,30 @@
+.favorites{
+
+    .right-click-title{
+        font-size: 1rem;
+        position: fixed;
+        bottom: 10px;
+        left: 10px;
+
+    }
+    height: 90vh;
+
+    h1{
+        margin-top: 0;
+        padding-top: 50px;
+        text-align: center;
+        font-size: 3rem;
+    }
+
+    @media (max-width:500px) {
+        h1{
+            font-size: 2rem;
+        }
+        .right-click-title{
+            display: none;
+        }
+        
+    }
+
+    
+}

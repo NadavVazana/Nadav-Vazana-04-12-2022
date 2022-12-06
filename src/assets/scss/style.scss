@@ -1,0 +1,16 @@
+// SETUP
+
+@import url('./setup/_base.scss');
+@import url('./setup/_normalize.scss');
+@import url('./setup/_fonts.scss');
+
+// CMPS
+
+@import url('./cmps/_header.scss');
+@import url('./cmps/_favorite-table.scss');
+@import url('./cmps/_snackbar.scss');
+
+// PAGES
+
+@import url('./pages/_favorites.scss');
+@import url('./pages/_home-page.scss');

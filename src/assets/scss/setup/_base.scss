@@ -1,0 +1,78 @@
+html {
+    font-family: Madefor;
+    overflow-y: hidden;
+    color: white;
+
+    .home-page,
+    .favorites,
+    .header {
+        background: rgb(2, 0, 36);
+        background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(51, 48, 231, 0.772) 0%, rgba(13, 171, 203, 1) 100%, rgba(9, 9, 121, 1) 100%);
+
+        &.dark {
+            background: linear-gradient(123deg, rgb(75 94 97 / 76%) 0%, rgb(33 66 84 / 69%) 84%);
+        }
+
+    }
+
+
+
+}
+
+.App {
+    .dark-btn {
+        position: fixed;
+        // right: 0;
+        bottom: 10px;
+        right: 10px;
+        left: unset;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.326);
+        border: rgba(255, 255, 255, 0.388) 1px solid;
+
+        &:hover {
+            border: rgba(255, 255, 255, 0.854) 1px solid;
+
+        }
+
+    }
+}
+
+body {
+    height: 100%;
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    img,
+    li,
+    a {
+        &::selection {
+            background-color: #4F5D73;
+            color: whitesmoke;
+        }
+    }
+}
+
+/* Scrollbar's width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Scrollbar's Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/*Scrollbar's Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Scrollbar's Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
