@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Nadav-Vazana-04-12-2022/static/css/main.8b2d6faf.css",
+    "main.js": "/Nadav-Vazana-04-12-2022/static/js/main.35d780fb.js",
+    "static/media/Raleway-VariableFont_wght.ttf": "/Nadav-Vazana-04-12-2022/static/media/Raleway-VariableFont_wght.575ec9e676c7a85494bb.ttf",
+    "static/media/WixMadeforTextRegular.otf": "/Nadav-Vazana-04-12-2022/static/media/WixMadeforTextRegular.72c2e4503a727eedeab1.otf",
+    "static/media/sun-loader.gif": "/Nadav-Vazana-04-12-2022/static/media/sun-loader.d0535fe4f8e07b716fad.gif",
+    "static/media/17.png": "/Nadav-Vazana-04-12-2022/static/media/17.4b8d4543699af9743509.png",
+    "static/media/41.png": "/Nadav-Vazana-04-12-2022/static/media/41.da8960711b2a7bdd80c0.png",
+    "static/media/16.png": "/Nadav-Vazana-04-12-2022/static/media/16.02f6796a4b217cbdd262.png",
+    "static/media/15.png": "/Nadav-Vazana-04-12-2022/static/media/15.9aac7942a26db293440b.png",
+    "static/media/trash.svg": "/Nadav-Vazana-04-12-2022/static/media/trash.4c9dede53d33edac11bf567560dc5450.svg",
+    "static/media/thermo.svg": "/Nadav-Vazana-04-12-2022/static/media/thermo.1b12b626888eec706e15bbeffb0999a6.svg",
+    "static/media/hamburger.svg": "/Nadav-Vazana-04-12-2022/static/media/hamburger.2a7fc5467ee6018f65da6b83463c414c.svg",
+    "static/media/logo.svg": "/Nadav-Vazana-04-12-2022/static/media/logo.b370f7ff066aa377f1b6176cc846cdc6.svg",
+    "index.html": "/Nadav-Vazana-04-12-2022/index.html",
+    "main.8b2d6faf.css.map": "/Nadav-Vazana-04-12-2022/static/css/main.8b2d6faf.css.map",
+    "main.35d780fb.js.map": "/Nadav-Vazana-04-12-2022/static/js/main.35d780fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b2d6faf.css",
+    "static/js/main.35d780fb.js"
+  ]
+}
