@@ -39,7 +39,7 @@ You can check the application out [here](https://nadavvazana.github.io/Nadav-Vaz
 Head to the repository on top and clone the project or download the files.
 
 ```
-git clone https://github.com/NadavVazana/Top-Takes
+git clone https://github.com/NadavVazana/Nadav-Vazana-04-12-2022
 ```
 
 Open the terminal and run the development commands:
